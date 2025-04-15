@@ -1,3 +1,3 @@
 # index
 
-[test](/test)
+* [test](/github-pages-playground/test)
